@@ -4,11 +4,11 @@
     <div class="code">
       <div>
         <h3>Installation</h3>
-        <pre><code>npm install juuust-vue-icon --save<br/>yarn add juuust-vue-icon</code></pre>
+        <pre><code>npm install lon1st-vue-icon --save<br/>yarn add lon1st-vue-icon</code></pre>
       </div>
       <div>
         <h3>Usage</h3>
-        <pre><code>import { IconHome } from 'juuust-vue-icon'<br/>&lt;IconHome :size="36" color="#009C22" &gt;</code></pre>
+        <pre><code>import { IconHome } from 'lon1st-vue-icon'<br/>&lt;IconHome :size="36" color="#009C22" &gt;</code></pre>
       </div>
     </div>
   </div>
